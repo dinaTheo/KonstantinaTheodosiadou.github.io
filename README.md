@@ -1,3 +1,3 @@
-# My Photography portfolio website
+# My portfolio of photos
 
 
